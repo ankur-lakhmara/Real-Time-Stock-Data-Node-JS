@@ -1,0 +1,2 @@
+1. On production keep in mind to uncomment the send email to send email on forgot password(path : D:\RealTimeStock\Backend\src\services\AuthService\forgotPassword.js Line : 25)
+2. 
